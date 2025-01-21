@@ -7,7 +7,7 @@ import "./App.css";
 
 // This is the hard solution. //
 import React from 'react';
-import BasicInfo from './BasicInfo'; 
+ import BasicInfo from './Basicinfo'; 
 
 class App extends React.Component {
     constructor(props) {
